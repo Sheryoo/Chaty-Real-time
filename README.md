@@ -1,20 +1,27 @@
 # Chaty - Chat Application 
 
-Real-time chat app using Socket.io and React
+### Real-time chat app using Socket.io and React
+![login page](./images/login.png)
+
+
+![Chats page](./images/chat.png)
 
 ## Installation Guide
 
 ### Requirements
-- [Nodejs](https://nodejs.org/en/download)
-- [react](https://react.dev/learn)
+- [Node.js](https://nodejs.org/en/download)
 
-Both should be installed.
+It should be installed.
+
+- [React](https://react.dev/learn)
+
+You should have the basic knowledge to deal with code.
 
 ```shell
 git clone https://github.com/Sheryoo/Full-chat-app.git
-cd chat-app-react-nodejs
+cd Full-chat-app
 ```
-Now rename env files from .env.example to .env
+Now rename env files from .env.example to .env and add your *API_KEYS*
 ```shell
 cd public
 mv .env.example .env
