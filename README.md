@@ -10,16 +10,17 @@
 
 ### Requirements
 - [Node.js](https://nodejs.org/en/download)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 
-It should be installed.
+Both should be installed.
 
 - [React](https://react.dev/learn)
 
 You should have the basic knowledge to deal with code.
 
 ```shell
-git clone https://github.com/Sheryoo/Full-chat-app.git
-cd Full-chat-app
+git clone https://github.com/Sheryoo/Chaty-Real-time.git
+cd Chaty-Real-time
 ```
 Now rename env files from .env.example to .env and add your *API_KEYS*
 ```shell
